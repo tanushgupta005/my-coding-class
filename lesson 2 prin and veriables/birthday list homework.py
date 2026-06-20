@@ -1,5 +1,1 @@
-print("rahul=23 june")
-print("mohit=12 march")
-print("rohit=24 may")
-print("priya=18 december")
-print("somu=1 november")
+birthday1=""
