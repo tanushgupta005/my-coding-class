@@ -1,3 +1,7 @@
-i=10
-while i+102:
-    print(i)
+n=int(input("enter a num"))
+sum=0
+i=1
+while i<=n:
+    sum=sum+i
+    i=i+1
+print(sum)
